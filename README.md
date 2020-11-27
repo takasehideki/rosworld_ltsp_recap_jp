@@ -20,20 +20,22 @@ Session InformationおよびVimeoには下記の説明文が記載されてい�
 > 
 > LTは2012年から始まったROSConの伝統行事となっています．これらの短く活気のあるプレゼンテーションでは，新しいツールや素晴らしいデモ，魅力的な企業，ユニークな個性が紹介されます．
 
-実施時間（JST）とSwapcard linkおよびVimeoの埋め込み動画を示す．
+LTのビデオ（全56本？）は，ShowcaseとしてすでにVimeoに公開されている．  
+[ROS World 2020 Lightning Talks Showcase](https://vimeo.com/showcase/7812302)
+
+各ビデオ単位のリンクや諸情報は後ほど示す．ここでは，当日の実施時間（JST）とSwapcard linkおよびVimeoの埋め込み動画を示す．
 
 **1:35-1:50 [Lightning Talks and Sponsor Videos 1](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzA3)**  
 <iframe src="https://player.vimeo.com/video/480530126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/480530126">ROS World 2020: Lightning Talks and Sponsor Videos 1</a> from <a href="https://vimeo.com/osrfoundation">Open Robotics</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-- 4:30-4:45 [Lightning Talks and Sponsor Videos 2](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzEy)  
+**4:30-4:45 [Lightning Talks and Sponsor Videos 2](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzEy)**  
 <iframe src="https://player.vimeo.com/video/480435216" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-- 6:15-6:30 [Lightning Talks and Sponsor Videos 3](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzE0)  
-- 6:40-6:55 [Lightning Talks and Sponsor Videos 4](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyNDA3)  
+**6:15-6:30 [Lightning Talks and Sponsor Videos 3](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzE0)**  
+<iframe src="https://player.vimeo.com/video/480436954" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-LTのビデオ（全56本？）は，ShowcaseとしてすでにVimeoに公開されている．各ビデオへのリンクは後ほど示す．  
-[ROS World 2020 Lightning Talks Showcase](https://vimeo.com/showcase/7812302)
+**6:40-6:55 [Lightning Talks and Sponsor Videos 4](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyNDA3)**  
+<iframe src="https://player.vimeo.com/video/480601709" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### 発表募集のフォーマット
 
