@@ -64,7 +64,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ## Lightning Talks and Sponsor Videos 1
 
-[Session-level Vimeo](https://player.vimeo.com/video/480530126)
+[Session-level Vimeo](https://vimeo.com/480530126)
 
 ### hogehoge
 
@@ -76,7 +76,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ## Lightning Talks and Sponsor Videos 2
 
-[Session-level Vimeo](https://player.vimeo.com/video/480435216)
+[Session-level Vimeo](https://vimeo.com/480435216)
 
 ### hogehoge
 
@@ -89,7 +89,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ## Lightning Talks and Sponsor Videos 3
 
-[Session-level Vimeo](https://player.vimeo.com/video/480436954)
+[Session-level Vimeo](https://vimeo.com/480436954)
 
 ### hogehoge
 
@@ -102,7 +102,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ## Lightning Talks and Sponsor Videos 4
 
-[Session-level Vimeo](https://player.vimeo.com/video/480438648)
+[Session-level Vimeo](https://vimeo.com/480438648)
 
 ### hogehoge
 
