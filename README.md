@@ -1,4 +1,4 @@
-# ROS World Recap for LT and Sponsor Videos by Japanese
+# ROS World 2020 Recap for LT and Sponsor Videos by Japanese
 
 [ROS World 2020 ](https://roscon.ros.org/world/2020/)で実施されたLightning Talks and Sponsor Videosの要約・リストです．  
 [ROS Japan UG #40 ROS World 2020参加報告会 ](https://rosjp.connpass.com/event/196043/)での[ @takasehideki ](https://www2.slideshare.net/takasehideki/robot-operating-system-236990359/4)による発表資料を兼ねています．
@@ -121,13 +121,65 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 [Session-level Vimeo](https://vimeo.com/480435216)
 
-### hogehoge
+### Sponsor: ADLINK [00:10-02:09]
 
-- Speaker: 
-- Summary:
-  - hoge
-  - fuga
+- Autonomous mobile robots will become prevalent
+- AI for AGV/AMR
+- Hardware platform
+  - ROScube-I: Real-time ROS 2 Controller for AMR
+  - NeuronBot: Rapid Prototyping and Demo Kit for AMR
+- ADLINK Neuron SDK
+  - Auto Inspection, Real-time SWARM Collaboration
 
+### Sponsor: Apex.AI [02:09-04:00]
+
+- 自動運転やってます どんな環境でもsafeに！
+- Apex.OS：安全で信頼性の高い通信層を提供 色んなCPU，ECU，センサを抽象化
+
+### ROS 2 in RoboCup [04:00-06:00]
+
+- Bold Hearts: RoboCup SoccerでROS 2を採用した最初のチーム！
+- ROS 2のベンチマーキング： https://link.springer.com/chapter/10.1007%2F978-3-030-35699-6_34
+- パッケージは全て公開してるよ： https://gitlab.com/boldhearts
+- ワークショップしてるよ： https://gitlab.com/boldhearts/ros2_workshop
+
+<iframe src="https://player.vimeo.com/video/480588859" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Sponsor: Amazon Web Services [06:00-08:04]
+
+- AWS RoboMaker: ROS Cloud Extensions
+- Development, Simulation and Deployment on Cloud!
+- aws educateはじめました NoeticとFoxyで！
+
+### Sponsor: Fetch Robotics [08:04-10:08]
+
+- Build something awesome.
+- Pandemic! NBC Newsとか[Fast Company News](https://www.fastcompany.com/90557694/these-fog-spraying-robots-kill-the-coronavirus)とか[Protocol](https://www.protocol.com/fetch-robotics-melonee-wise-interview)とかで無人機の活躍が取り上げられているよ！
+
+### ROS Compile [10:08-11:46]
+
+- https://github.com/DLu/roscompile
+  - ros_introspection: ROSパッケージ内のファイルを構造的に表示
+  - roscompile: エラー自動修正・スタイル調整でcatkinパッケージを改善
+- (Terminalだけでこわい)
+
+<iframe src="https://player.vimeo.com/video/480583056" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Sponsor: Clearpath Robotics [11:46-13:00]
+
+- BUILD TO GO ANYWHERE
+- FULLY CUSTOMIZABLE
+- ROS READY OUT-OF-THE-BOX
+
+### Sponsor: Rapyuta Robotics [13:00-14:03]
+
+- https://rapyuta.io/
+- Use cases for collaborative AMRs, depalletization with ARMs and Industorial ARM, Autonomous Forklifts
+
+### Sponsor: PlusOne Robotics [14:03-15:32]
+
+- 数百台のロボット自律動作の監視を柔軟化
+- コンピュータビジョンの会社らしい
 
 ## Lightning Talks and Sponsor Videos 3
 
