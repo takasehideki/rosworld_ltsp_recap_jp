@@ -3,8 +3,8 @@
 [ROS World 2020 ](https://roscon.ros.org/world/2020/)で実施されたLightning Talks and Sponsor Videosの要約・リストです．  
 [ROS Japan UG #40 ROS World 2020参加報告会 ](https://rosjp.connpass.com/event/196043/)での[ @takasehideki ](https://www2.slideshare.net/takasehideki/robot-operating-system-236990359/4)による発表資料を兼ねています．
 
-各発表ビデオへの補足や情報の修正などあれば，[Pull Request](https://github.com/takasehideki/rosworld_ltsp_recap_jp/pulls)で協力いただけますと幸いです．
-また，このリポジトリをWatch登録（[参考](https://docs.github.com/ja/enterprise-server@2.20/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories)）しておくと，変更通知が受け取れて便利かと思います（集合知になるかな？どのくらい更新されるかは未定,,,）
+各発表ビデオへの補足や情報の修正などあれば，[Pull Request](https://github.com/takasehideki/rosworld_ltsp_recap_jp/pulls)で協力いただけますと幸いです．特に当日ビデオ外のものはほぼリストだけの状態になっているので，皆さんのチカラによる集合知の場となると嬉しいです．  
+また，このリポジトリをWatch登録（[参考](https://docs.github.com/ja/enterprise-server@2.20/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories)）しておくと，変更通知が受け取れて便利かと思います（どのくらい更新されるかは未定,,,）
 
 - [閲覧向け：GitHub Pages](https://takasehideki.github.io/rosworld_ltsp_recap_jp)
 - [編集向け：GitHub Repository](https://github.com/takasehideki/rosworld_ltsp_recap_jp)
@@ -20,10 +20,7 @@ Session InformationおよびVimeoには下記の説明文が記載されてい�
 > 
 > LTは2012年から始まったROSConの伝統行事となっています．これらの短く活気のあるプレゼンテーションでは，新しいツールや素晴らしいデモ，魅力的な企業，ユニークな個性が紹介されます．
 
-LTのビデオ（全56本？）は，ShowcaseとしてすでにVimeoに公開されている．  
-[ROS World 2020 Lightning Talks Showcase](https://vimeo.com/showcase/7812302)
-
-各ビデオ単位のリンクや諸情報は後ほど示す．ここでは，当日の実施時間（JST）とSwapcard linkおよびVimeoの埋め込み動画を示す．
+まず，当日のセッションで放映されたビデオの実施時間（JST）とSwapcard linkおよびVimeoの埋め込み動画を示す．
 
 **1:35-1:50 [Lightning Talks and Sponsor Videos 1](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzA3)**  
 <iframe src="https://player.vimeo.com/video/480530126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -42,11 +39,17 @@ LTのビデオ（全56本？）は，ShowcaseとしてすでにVimeoに公開さ
 <iframe src="https://player.vimeo.com/video/480438648" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p></p>
 
+LTはShowcaseとしてすでにVimeoに公開されている．
+上記に含まれないLT videoもあり，全56本？ぽい．  
+[ROS World 2020 Lightning Talks Showcase](https://vimeo.com/showcase/7812302)
+
 ### 発表募集のフォーマット
 
 [ROS World 2020 Call for Lightning Talk Videos - ROS Discourse](https://discourse.ros.org/t/ros-world-2020-call-for-lightning-talk-videos/16222)
 
-120秒以内，1920x1080p (full HD)推奨（最小1280x720p），500MB-3.5GB（最大5GB）のMP4ファイルと，概要等の情報を[Google forms](https://docs.google.com/forms/d/e/1FAIpQLSeA20TyYkbAwCLCaMhnJ5l_5W5t9ndobnXnNNNQ0mpbOcllcw/viewform)にて事前に提出．採択率は不明．
+120秒以内，1920x1080p (full HD)推奨（最小1280x720p），500MB-3.5GB（最大5GB）のMP4ファイルと，概要等の情報を[Google forms](https://docs.google.com/forms/d/e/1FAIpQLSeA20TyYkbAwCLCaMhnJ5l_5W5t9ndobnXnNNNQ0mpbOcllcw/viewform)にて事前に提出．
+
+採択率は不明．上記の当日放映には含まれていないものもShowcaseに掲載されており，つまり全てが採択されている気がする．
 
 ### ROS World 2020 Sponsors
 
@@ -62,7 +65,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ## Lightning Talks and Sponsor Videos 1
 
-[Session-level Vimeo](https://vimeo.com/480530126)
+**[Session-level Vimeo](https://vimeo.com/480530126)**
 
 ### ROS Contributions Over Time [00:06-04:25]
 
@@ -117,7 +120,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ## Lightning Talks and Sponsor Videos 2
 
-[Session-level Vimeo](https://vimeo.com/480435216)
+**[Session-level Vimeo](https://vimeo.com/480435216)**
 
 ### Sponsor: ADLINK [00:10-02:09]
 
@@ -181,9 +184,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ## Lightning Talks and Sponsor Videos 3
 
-[Session-level Vimeo](https://vimeo.com/480436954)
-
-### hogehoge
+**[Session-level Vimeo](https://vimeo.com/480436954)**
 
 ### PlotJuggler [00:10-02:09]
 
@@ -239,9 +240,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ## Lightning Talks and Sponsor Videos 4
 
-[Session-level Vimeo](https://vimeo.com/480438648)
-
-### hogehoge [00:00-00:00]
+**[Session-level Vimeo](https://vimeo.com/480438648)**
 
 ### WEBOTS Robot Simulator [00:10-01:40]
 
@@ -311,5 +310,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 <iframe src="https://player.vimeo.com/video/480581175" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+## 当日放映には含まれないLT
+
+当日のLightning Talks and Sponsor Videosには含まれていないが[ Showcase ](https://vimeo.com/showcase/7812302)にはアップロードされているもの．リストとVimeo埋め込みだけ．
 
 
