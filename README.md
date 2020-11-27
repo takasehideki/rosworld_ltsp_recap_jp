@@ -27,15 +27,20 @@ LTのビデオ（全56本？）は，ShowcaseとしてすでにVimeoに公開さ
 
 **1:35-1:50 [Lightning Talks and Sponsor Videos 1](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzA3)**  
 <iframe src="https://player.vimeo.com/video/480530126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p></p>
 
 **4:30-4:45 [Lightning Talks and Sponsor Videos 2](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzEy)**  
 <iframe src="https://player.vimeo.com/video/480435216" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p></p>
 
 **6:15-6:30 [Lightning Talks and Sponsor Videos 3](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzE0)**  
 <iframe src="https://player.vimeo.com/video/480436954" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p></p>
 
 **6:40-6:55 [Lightning Talks and Sponsor Videos 4](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyNDA3)**  
-<iframe src="https://player.vimeo.com/video/480601709" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+(配置されているVideoが違うぽい？？Vimeoは大丈夫)  
+<iframe src="https://player.vimeo.com/video/480438648" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p></p>
 
 ### 発表募集のフォーマット
 
