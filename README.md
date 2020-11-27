@@ -54,9 +54,7 @@ LTのビデオ（全56本？）は，ShowcaseとしてすでにVimeoに公開さ
 
 Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsors（19社）に，最大2分のSponsor-provided promotional videoのメリットが提供された．
 
-<!--
-加えて，[Virtual Exhibit booth](https://rosworld2020.app.swapcard.com/event/ros-world-2020/exhibitors/RXZlbnRWaWV3XzY2MDcx?search=)（Swapcardのアカウント＆ログインが必要）にて，
--->
+加えて，[Virtual Exhibit booth](https://rosworld2020.app.swapcard.com/event/ros-world-2020/exhibitors/RXZlbnRWaWV3XzY2MDcx?search=)（Swapcardのアカウント＆ログインが必要）も提供されていた．1:1 video callsなどあったらしい？
 
 # 各videoのリンク・情報
 
@@ -187,12 +185,57 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### hogehoge
 
-- Speaker: 
-- Summary:
-  - hoge
-  - fuga
+### PlotJuggler [00:10-02:09]
 
+- Version 3のアップデート：UIとUXの向上
+- データ変換と分析のための強力かつシンプルなツール
+- https://github.com/facontidavide/PlotJuggler
+- https://plotjuggler.io
 
+<iframe src="https://player.vimeo.com/video/480588113" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Sponsor: GurumNetworks [02:09-04:00]
+
+- GurumDDS: high performance in harsh condition
+
+### Sponsor: Intel [04:00-05:48]
+
+- OpenVINO Toolkit: Open Visual Interface & Neural Network Optimization
+
+### Sponsor: Microsoft [05:48-07:21]
+
+- ROS on Windows was announced at ROSCon 2018, and downloaded 100,000+
+- Announcement at ROSCon 2019
+- Announcement at ROS World 2020
+- Comming in 2021
+- http://aka.ms/ros
+
+### Zebracorn Update [07:21-09:23]
+
+- Zebracorns - FIRST Robotics Competition Team 900
+- 高校生の競技チーム．ROSCon 2018からもがんばってるよ！卒業あったりCOVID-19たいへんだけど！
+- https://team900.org/
+
+<iframe src="https://player.vimeo.com/video/480591697" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Sponsor: ROBOTIS [09:23-11:24]
+
+- TurtleBot3 AUTORACE
+- Integrated Maunipulator Library for OpenMANIPULATOR
+- ROBOTIS OP3
+
+### Sponsor: Auterion [11:24-13:27]
+
+- Robotics platform for Drone
+- Skynode: standardized component for Drone
+
+### Sponsor: SICK [13:27-15:30]
+
+- Sensor solutions for mobile automation
+- Navigation and positioning
+- Environmental perception and safety
+- Load handling
+- http://www.sick.com/mobile-platforms
 
 ## Lightning Talks and Sponsor Videos 4
 
