@@ -40,7 +40,7 @@ Session InformationおよびVimeoには下記の説明文が記載されてい�
 <p></p>
 
 LTはShowcaseとしてすでにVimeoに公開されている．
-上記に含まれないLT videoもあり，全56本？ぽい．  
+上記に含まれないLT videoもあり，全55本？ぽい（1件はPanelの誤り，重複？1件）．  
 [ROS World 2020 Lightning Talks Showcase](https://vimeo.com/showcase/7812302)
 
 ### 発表募集のフォーマット
@@ -49,7 +49,8 @@ LTはShowcaseとしてすでにVimeoに公開されている．
 
 120秒以内，1920x1080p (full HD)推奨（最小1280x720p），500MB-3.5GB（最大5GB）のMP4ファイルと，概要等の情報を[Google forms](https://docs.google.com/forms/d/e/1FAIpQLSeA20TyYkbAwCLCaMhnJ5l_5W5t9ndobnXnNNNQ0mpbOcllcw/viewform)にて事前に提出．
 
-採択率は不明．上記の当日放映には含まれていないものもShowcaseに掲載されており，つまり全てが採択されている気がする．
+採択率は不明．上記の当日放映には含まれていないものもShowcaseに掲載されており，~~つまり全てが採択されている気がする．~~  
+-> 75件の投稿があったとのこと．Showcaseには前述通り55件だがSponsor videoと思われるものもある．
 
 ### ROS World 2020 Sponsors
 
