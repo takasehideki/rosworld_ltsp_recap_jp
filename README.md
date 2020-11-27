@@ -243,7 +243,73 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### hogehoge [00:00-00:00]
 
-- Speaker: 
-- Summary:
-  - hoge
-  - fuga
+### WEBOTS Robot Simulator [00:10-01:40]
+
+- modern simulation software ready for ROS 2
+
+<iframe src="https://player.vimeo.com/video/480583713" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Weekly Robotics [01:40-02:16]
+
+- ロボットの研究やプロジェクトや動向などのニュースサイト，もちろんROSも！
+- 毎週月曜に発行．みんな読んでね．もちろん掲載したいことあったら連絡してね！
+- https://weeklyrobotics.com/
+
+<iframe src="https://player.vimeo.com/video/480586689" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Technaid Exoskeleton [02:16-04:08]
+
+- EXO-H3 on ROS：ros_controlフレームワークで動作する歩行アシストロボット
+- https://www.technaid.com/
+
+<iframe src="https://player.vimeo.com/video/480587410" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Web Based ROS Interface [04:08-06:08]
+
+- Webブラウザベースの3D Viewer．Webviz, TTYDと統合．
+- Southwest Research InstituteとNOVの共同研究？ROS-Industrialの活動でもあるっぽい．
+
+<iframe src="https://player.vimeo.com/video/480589886" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### ROS for Robt Swarms [06:08-08:15]
+
+- Swarm roboticsにROSええんちゃう？って研究の紹介
+- Swarm monitoringにUnityを利用
+- https://link.springer.com/chapter/10.1007/978-3-030-25332-5_19
+- (Tシャツが気になる,,, )
+
+<iframe src="https://player.vimeo.com/video/480582127" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Greenzie [08:15-10:10]
+
+- 俺たちの作ってるRoverかっこええやろ！
+- https://greenzie.com
+
+<iframe src="https://player.vimeo.com/video/480573826" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### ROS and Autonomous Maritime Systems at the University of Louisiana at Lafeyette [10:10-12:07]
+
+- Maritime RobotX Challengeがんばってるよ！
+
+<iframe src="https://player.vimeo.com/video/480580277" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Using objects in MoveIt just got easier! [12:07-13:33]
+
+- Felixさん！
+- MoveIt Planning Scene (subframes and poses)の最新状況
+- dual-arm robot assembling a drive unit at World Robot Summit 2020 Assembly Challenge
+- 君の貢献を待っている！レビュってくれ！ https://github.com/ros-planning/moveit/pull/2037
+- MoveItのDiscordあるよ！
+- これもチェックしてね！ https://github.com/o2as/ur-o2as
+- _Also, we're hiring_: https://www.omron.com/sinicx
+
+<iframe src="https://player.vimeo.com/video/480579586" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Autonomous Pallet Truck [13:33-15:32]
+
+- Autonomous Pallet Truck "Ida"の紹介
+
+<iframe src="https://player.vimeo.com/video/480581175" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
