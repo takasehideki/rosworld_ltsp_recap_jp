@@ -4,7 +4,7 @@
 [ROS Japan UG #40 ROS World 2020参加報告会 ](https://rosjp.connpass.com/event/196043/)での[ @takasehideki ](https://www2.slideshare.net/takasehideki/robot-operating-system-236990359/4)による発表資料を兼ねています．
 
 各発表ビデオへの補足や情報の修正などあれば，[Pull Request](https://github.com/takasehideki/rosworld_ltsp_recap_jp/pulls)で協力いただけますと幸いです．
-また，[このリポジトリをWatch登録](https://docs.github.com/ja/enterprise-server@2.20/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories)しておくと，変更通知が受け取れて便利かと思います（集合知になるかな？どのくらい更新されるかは未定,,,）
+また，このリポジトリをWatch登録（[参考](https://docs.github.com/ja/enterprise-server@2.20/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories)）しておくと，変更通知が受け取れて便利かと思います（集合知になるかな？どのくらい更新されるかは未定,,,）
 
 - [閲覧向け：GitHub Pages](https://takasehideki.github.io/rosworld_ltsp_recap_jp)
 - [編集向け：GitHub Repository](https://github.com/takasehideki/rosworld_ltsp_recap_jp)
@@ -20,12 +20,17 @@ Session InformationおよびVimeoには下記の説明文が記載されてい�
 > 
 > LTは2012年から始まったROSConの伝統行事となっています．これらの短く活気のあるプレゼンテーションでは，新しいツールや素晴らしいデモ，魅力的な企業，ユニークな個性が紹介されます．
 
-実施時間（JST）とSwapcard linkを示す．
+実施時間（JST）とSwapcard linkおよびVimeoの埋め込み動画を示す．
 
-- 1:35-1:50 [Lightning Talks and Sponsor Videos 1](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzA3)
-- 4:30-4:45 [Lightning Talks and Sponsor Videos 2](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzEy)
-- 6:15-6:30 [Lightning Talks and Sponsor Videos 3](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzE0)
-- 6:40-6:55 [Lightning Talks and Sponsor Videos 4](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyNDA3)
+**1:35-1:50 [Lightning Talks and Sponsor Videos 1](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzA3)**  
+<iframe src="https://player.vimeo.com/video/480530126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/480530126">ROS World 2020: Lightning Talks and Sponsor Videos 1</a> from <a href="https://vimeo.com/osrfoundation">Open Robotics</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+- 4:30-4:45 [Lightning Talks and Sponsor Videos 2](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzEy)  
+<iframe src="https://player.vimeo.com/video/480435216" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+- 6:15-6:30 [Lightning Talks and Sponsor Videos 3](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyMzE0)  
+- 6:40-6:55 [Lightning Talks and Sponsor Videos 4](https://rosworld2020.app.swapcard.com/widget/event/ros-world-2020/planning/UGxhbm5pbmdfMjQyNDA3)  
 
 LTのビデオ（全56本？）は，ShowcaseとしてすでにVimeoに公開されている．各ビデオへのリンクは後ほど示す．  
 [ROS World 2020 Lightning Talks Showcase](https://vimeo.com/showcase/7812302)
@@ -40,7 +45,7 @@ LTのビデオ（全56本？）は，ShowcaseとしてすでにVimeoに公開さ
 
 [ROS ecosystemを支える皆さま](https://roscon.ros.org/world/2020/#sponsors)に，圧！倒！的！！感謝！！！
 
-Platinum Sponsor[eProsima](https://www.eprosima.com/)およびGold Sponsors（19社）に，最大2分のSponsor-provided promotional videoのメリットが提供された．
+Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsors（19社）に，最大2分のSponsor-provided promotional videoのメリットが提供された．
 
 <!--
 加えて，[Virtual Exhibit booth](https://rosworld2020.app.swapcard.com/event/ros-world-2020/exhibitors/RXZlbnRWaWV3XzY2MDcx?search=)（Swapcardのアカウント＆ログインが必要）にて，
