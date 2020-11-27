@@ -70,8 +70,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 ### ROS Contributions Over Time [00:06-04:25]
 
 - Creater: Dirk Thomas
-- https://github.com/dirk-thomas/rosworld2020_ros-contributions
-- [Thank you, Dirk! and hope to amazing next journey!!](https://discourse.ros.org/t/thank-you-farewell/17297)
+- [https://github.com/dirk-thomas/rosworld2020_ros-contributions](https://github.com/dirk-thomas/rosworld2020_ros-contributions)
+- [Thank you, Dirk! and hope to your amazing next journey!!](https://discourse.ros.org/t/thank-you-farewell/17297)
 
 <iframe src="https://player.vimeo.com/video/479109030" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -105,8 +105,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 - Speaker: Daniel Grieneisen
 - Data Driven Robotics
 - 倉庫での運搬ロボットのオーケストレーションとrosbagデータの可視化・解析 with Google BigQuery
-  - Blog: http://6river.com/category/engineering
-  - Code: https://github.com/6RiverSystems/rosbag2bigquery
+  - Blog: [http://6river.com/category/engineering](http://6river.com/category/engineering)
+  - Code: [https://github.com/6RiverSystems/rosbag2bigquery](https://github.com/6RiverSystems/rosbag2bigquery) 
 
 ### Sponsor: ROCOS [11:42-13:45]
 
@@ -140,9 +140,9 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 ### ROS 2 in RoboCup [04:00-06:00]
 
 - Bold Hearts: RoboCup SoccerでROS 2を採用した最初のチーム！
-- ROS 2のベンチマーキング： https://link.springer.com/chapter/10.1007%2F978-3-030-35699-6_34
-- パッケージは全て公開してるよ： https://gitlab.com/boldhearts
-- ワークショップしてるよ： https://gitlab.com/boldhearts/ros2_workshop
+- ROS 2のベンチマーキング： [https://link.springer.com/chapter/10.1007%2F978-3-030-35699-6_34](https://link.springer.com/chapter/10.1007%2F978-3-030-35699-6_34)
+- パッケージは全て公開してるよ： [https://gitlab.com/boldhearts](https://gitlab.com/boldhearts)
+- ワークショップしてるよ： [https://gitlab.com/boldhearts/ros2_workshop](https://gitlab.com/boldhearts/ros2_workshop)
 
 <iframe src="https://player.vimeo.com/video/480588859" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -159,7 +159,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### ROS Compile [10:08-11:46]
 
-- https://github.com/DLu/roscompile
+- [https://github.com/DLu/roscompile](https://github.com/DLu/roscompile)
   - ros_introspection: ROSパッケージ内のファイルを構造的に表示
   - roscompile: エラー自動修正・スタイル調整でcatkinパッケージを改善
 - (Terminalだけでこわい)
@@ -174,7 +174,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### Sponsor: Rapyuta Robotics [13:00-14:03]
 
-- https://rapyuta.io/
+- [https://rapyuta.io/](https://rapyuta.io/)
 - Use cases for collaborative AMRs, depalletization with ARMs and Industorial ARM, Autonomous Forklifts
 
 ### Sponsor: PlusOne Robotics [14:03-15:32]
@@ -190,8 +190,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 - Version 3のアップデート：UIとUXの向上
 - データ変換と分析のための強力かつシンプルなツール
-- https://github.com/facontidavide/PlotJuggler
-- https://plotjuggler.io
+- [https://github.com/facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler)
+- [https://plotjuggler.io](https://plotjuggler.io)
 
 <iframe src="https://player.vimeo.com/video/480588113" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -209,13 +209,13 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 - Announcement at ROSCon 2019
 - Announcement at ROS World 2020
 - Comming in 2021
-- http://aka.ms/ros
+- [http://aka.ms/ros](http://aka.ms/ros)
 
 ### Zebracorn Update [07:21-09:23]
 
 - Zebracorns - FIRST Robotics Competition Team 900
 - 高校生の競技チーム．ROSCon 2018からもがんばってるよ！卒業あったりCOVID-19たいへんだけど！
-- https://team900.org/
+- [https://team900.org/](https://team900.org/)
 
 <iframe src="https://player.vimeo.com/video/480591697" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -236,7 +236,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 - Navigation and positioning
 - Environmental perception and safety
 - Load handling
-- http://www.sick.com/mobile-platforms
+- [http://www.sick.com/mobile-platforms](http://www.sick.com/mobile-platforms)
 
 ## Lightning Talks and Sponsor Videos 4
 
@@ -252,14 +252,14 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 - ロボットの研究やプロジェクトや動向などのニュースサイト，もちろんROSも！
 - 毎週月曜に発行．みんな読んでね．もちろん掲載したいことあったら連絡してね！
-- https://weeklyrobotics.com/
+- [https://weeklyrobotics.com/](https://weeklyrobotics.com/)
 
 <iframe src="https://player.vimeo.com/video/480586689" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Technaid Exoskeleton [02:16-04:08]
 
 - EXO-H3 on ROS：ros_controlフレームワークで動作する歩行アシストロボット
-- https://www.technaid.com/
+- [https://www.technaid.com/](https://www.technaid.com/)
 
 <iframe src="https://player.vimeo.com/video/480587410" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -274,7 +274,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 - Swarm roboticsにROSええんちゃう？って研究の紹介
 - Swarm monitoringにUnityを利用
-- https://link.springer.com/chapter/10.1007/978-3-030-25332-5_19
+- [https://link.springer.com/chapter/10.1007/978-3-030-25332-5_19](https://link.springer.com/chapter/10.1007/978-3-030-25332-5_19)
 - (Tシャツが気になる,,, )
 
 <iframe src="https://player.vimeo.com/video/480582127" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -282,7 +282,7 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 ### Greenzie [08:15-10:10]
 
 - 俺たちの作ってるRoverかっこええやろ！
-- https://greenzie.com
+- [https://greenzie.com](https://greenzie.com)
 
 <iframe src="https://player.vimeo.com/video/480573826" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -297,10 +297,10 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 - Felixさん！
 - MoveIt Planning Scene (subframes and poses)の最新状況
 - dual-arm robot assembling a drive unit at World Robot Summit 2020 Assembly Challenge
-- 君の貢献を待っている！レビュってくれ！ https://github.com/ros-planning/moveit/pull/2037
+- 君の貢献を待っている！レビュってくれ！ [https://github.com/ros-planning/moveit/pull/2037](https://github.com/ros-planning/moveit/pull/2037)
 - MoveItのDiscordあるよ！
-- これもチェックしてね！ https://github.com/o2as/ur-o2as
-- _Also, we're hiring_: https://www.omron.com/sinicx
+- これもチェックしてね！ [https://github.com/o2as/ur-o2as](https://github.com/o2as/ur-o2as)
+- _Also, we're hiring_: [https://www.omron.com/sinicx](https://www.omron.com/sinicx)
 
 <iframe src="https://player.vimeo.com/video/480579586" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
