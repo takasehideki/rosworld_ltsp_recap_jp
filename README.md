@@ -314,4 +314,150 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 当日のLightning Talks and Sponsor Videosには含まれていないが[ Showcase ](https://vimeo.com/showcase/7812302)にはアップロードされているもの．リストとVimeo埋め込みだけ．
 
+### ROS 2 Secure Launch
 
+<iframe src="https://player.vimeo.com/video/480578111" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### New rosbag2 Features
+
+<iframe src="https://player.vimeo.com/video/480577024" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### ROS 2 QoS Enhancements
+
+<iframe src="https://player.vimeo.com/video/480575881" width="640" height="400" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Qualcomm RB5
+
+<iframe src="https://player.vimeo.com/video/480574847" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Visevi Robot Cinematics
+
+<iframe src="https://player.vimeo.com/video/480572957" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Ament Clang Tidy
+
+<iframe src="https://player.vimeo.com/video/480571914" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### ROS Cross Comple
+
+<iframe src="https://player.vimeo.com/video/480570804" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### LANoising
+
+<iframe src="https://player.vimeo.com/video/480569545" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Yoloact ROS 3D
+
+<iframe src="https://player.vimeo.com/video/480568260" width="640" height="362" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Autodrive Simulator
+
+<iframe src="https://player.vimeo.com/video/480566576" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Open3D Conversions
+
+<iframe src="https://player.vimeo.com/video/480560723" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Freedom Robotics Fleet Management
+
+<iframe src="https://player.vimeo.com/video/480559655" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### KRSSG Robocup
+
+<iframe src="https://player.vimeo.com/video/480558438" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Force Control Through Process Motions
+
+<iframe src="https://player.vimeo.com/video/480556783" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### ROS 2 System Metrics Collector
+
+<iframe src="https://player.vimeo.com/video/480555451" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Object Computing DDS Questions
+
+<iframe src="https://player.vimeo.com/video/480554072" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Matlab & ROS
+
+<iframe src="https://player.vimeo.com/video/480552885" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### PlanSys2!
+
+<iframe src="https://player.vimeo.com/video/480552001" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### JDE Robotics Academy
+
+<iframe src="https://player.vimeo.com/video/480550758" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Cognicept Robot Monitoring
+
+<iframe src="https://player.vimeo.com/video/480546926" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### ReRobots
+
+<iframe src="https://player.vimeo.com/video/480545435" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Oceaneering Automated Forklift
+
+<iframe src="https://player.vimeo.com/video/480544200" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### ROS Ukraine and more!
+
+<iframe src="https://player.vimeo.com/video/480543264" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Smart Physical Demonstration and Evaluation Robot
+
+<iframe src="https://player.vimeo.com/video/480537857" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### ROS + Docker 2020
+
+<iframe src="https://player.vimeo.com/video/480536739" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Ignition Tutorials
+
+<iframe src="https://player.vimeo.com/video/480535608" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Visevi VIseTac Optical Tactile Sensor
+
+<iframe src="https://player.vimeo.com/video/480533762" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### JDE Robot Visual Circuit
+
+<iframe src="https://player.vimeo.com/video/480532416" width="640" height="320" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Omnibase Simulator
+
+<iframe src="https://player.vimeo.com/video/480530794" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### RoboTrainer
+
+<iframe src="https://player.vimeo.com/video/480529839" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### EXTRM SC2.0
+
+<iframe src="https://player.vimeo.com/video/480528377" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### JCA Autonomous Agriculture
+
+<iframe src="https://player.vimeo.com/video/480527742" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### ROS Melodic CIS security benchmark
+
+<iframe src="https://player.vimeo.com/video/480526685" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Boost Pool Allocation
+
+<iframe src="https://player.vimeo.com/video/480521240" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Lunchbotics Robot Bartender
+
+<iframe src="https://player.vimeo.com/video/480520577" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### GIM Robotics LMAD
+
+<iframe src="https://player.vimeo.com/video/480519859" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### EtherCAT Master for Laelaps II Quadruped
+
+<iframe src="https://player.vimeo.com/video/480516549" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
