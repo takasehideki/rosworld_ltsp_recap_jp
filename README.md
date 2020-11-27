@@ -66,13 +66,56 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 [Session-level Vimeo](https://vimeo.com/480530126)
 
-### hogehoge
+### ROS Contributions Over Time [00:06-04:25]
 
-- [Vimeo link]()
-- Speaker: 
-- Summary:
-    - hoge
-    - fuga
+- Creater: Dirk Thomas
+- https://github.com/dirk-thomas/rosworld2020_ros-contributions
+- [Thank you, Dirk! and hope to amazing next journey!!](https://discourse.ros.org/t/thank-you-farewell/17297)
+
+<iframe src="https://player.vimeo.com/video/479109030" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Sponsor: eProsima [04:25-06:25]
+
+- Platinum Sponsor!
+- The Middleware Experts for Robotics, IoT and Critical Systems
+- FastDDS, Micro XRCE-DDS, and micro-ROS
+
+### Sponsor: Sony Corporation [06:25-06:56]
+
+- aiboちゃん可愛いよめっちゃ可愛いよ
+
+### Sponsor: Ubuntu (Canonical) [06:56-08:50]
+
+- How do you package and distribute your ROS application?
+- snap使えば開発スピード圧倒的！apt installしてる間にもうTB3走っちゃうよ！！
+  - [The snap way to setup TurtleBot3 on fresh Ubuntu](https://ubuntu.com/blog/how-to-set-up-turtlebot3-in-minutes-with-snaps)
+- Learn more at [snapcraft.io](https://snapcraft.io/)
+
+### DARPA SubT [08:50-10:04]
+
+- [DARPA Subterranean Challenge](https://www.subtchallenge.com/)
+- ROSは地下にも行くぞ！
+- コミュニティのチカラで整備された50以上のロボットがGazebo/Ignitionで試せる！
+
+<iframe src="https://player.vimeo.com/video/479992145" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Sponsor: 6 River Systems [10:04-11:42]
+
+- Speaker: Daniel Grieneisen
+- Data Driven Robotics
+- 倉庫での運搬ロボットのオーケストレーションとrosbagデータの可視化・解析 with Google BigQuery
+  - Blog: http://6river.com/category/engineering
+  - Code: https://github.com/6RiverSystems/rosbag2bigquery
+
+### Sponsor: ROCOS [11:42-13:45]
+
+- Rocos Robot Operations Platform: ロボット操作の構築・管理のためのクラウドプラットフォーム
+- 監視の容易化・セキュア接続・リモート操作・運用コスト低減
+
+### Sponsor: arm [13:45-15:10]
+
+- arm for Everywhere
+- Welcome to new era of compute
 
 ## Lightning Talks and Sponsor Videos 2
 
@@ -80,11 +123,10 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### hogehoge
 
-- [Vimeo link]()
 - Speaker: 
 - Summary:
-    - hoge
-    - fuga
+  - hoge
+  - fuga
 
 
 ## Lightning Talks and Sponsor Videos 3
@@ -93,22 +135,20 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### hogehoge
 
-- [Vimeo link]()
 - Speaker: 
 - Summary:
-    - hoge
-    - fuga
+  - hoge
+  - fuga
+
 
 
 ## Lightning Talks and Sponsor Videos 4
 
 [Session-level Vimeo](https://vimeo.com/480438648)
 
-### hogehoge
+### hogehoge [00:00-00:00]
 
-- [Vimeo link]()
 - Speaker: 
 - Summary:
-    - hoge
-    - fuga
-
+  - hoge
+  - fuga
