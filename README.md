@@ -58,7 +58,13 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 加えて，[Virtual Exhibit booth](https://rosworld2020.app.swapcard.com/event/ros-world-2020/exhibitors/RXZlbnRWaWV3XzY2MDcx?search=)（Swapcardのアカウント＆ログインが必要）にて，
 -->
 
+# 各videoのリンク・情報
+
+各videoのリンクや概要をプレゼンごとに示す．タイトルの括弧内は元のSession-level vimeoの時間を表す．
+
 ## Lightning Talks and Sponsor Videos 1
+
+[Session-level Vimeo](https://player.vimeo.com/video/480530126)
 
 ### hogehoge
 
@@ -69,6 +75,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
     - fuga
 
 ## Lightning Talks and Sponsor Videos 2
+
+[Session-level Vimeo](https://player.vimeo.com/video/480435216)
 
 ### hogehoge
 
@@ -81,6 +89,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ## Lightning Talks and Sponsor Videos 3
 
+[Session-level Vimeo](https://player.vimeo.com/video/480436954)
+
 ### hogehoge
 
 - [Vimeo link]()
@@ -91,6 +101,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 
 ## Lightning Talks and Sponsor Videos 4
+
+[Session-level Vimeo](https://player.vimeo.com/video/480438648)
 
 ### hogehoge
 
