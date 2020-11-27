@@ -316,9 +316,13 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### ROS 2 Secure Launch
 
+- [Note by @fujitatomoya](https://github.com/fujitatomoya/presentation/blob/master/ROSWorld_2020/rosjp_40_recap_lt_for_lts.md#security-launch)
+
 <iframe src="https://player.vimeo.com/video/480578111" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### New rosbag2 Features
+
+- [Note by @fujitatomoya](https://github.com/fujitatomoya/presentation/blob/master/ROSWorld_2020/rosjp_40_recap_lt_for_lts.md#rosbag2)
 
 <iframe src="https://player.vimeo.com/video/480577024" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -360,6 +364,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### Freedom Robotics Fleet Management
 
+- [Note by @fujitatomoya](https://github.com/fujitatomoya/presentation/blob/master/ROSWorld_2020/rosjp_40_recap_lt_for_lts.md#freedom-robotics)
+
 <iframe src="https://player.vimeo.com/video/480559655" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### KRSSG Robocup
@@ -372,9 +378,13 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### ROS 2 System Metrics Collector
 
+- [Note by @fujitatomoya](https://github.com/fujitatomoya/presentation/blob/master/ROSWorld_2020/rosjp_40_recap_lt_for_lts.md#system-statistics)
+
 <iframe src="https://player.vimeo.com/video/480555451" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Object Computing DDS Questions
+
+- [Note by @fujitatomoya](https://github.com/fujitatomoya/presentation/blob/master/ROSWorld_2020/rosjp_40_recap_lt_for_lts.md#object-computing-dds)
 
 <iframe src="https://player.vimeo.com/video/480554072" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -412,6 +422,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 
 ### ROS + Docker 2020
 
+- [Note by @fujitatomoya](https://github.com/fujitatomoya/presentation/blob/master/ROSWorld_2020/rosjp_40_recap_lt_for_lts.md#ros--docker)
+
 <iframe src="https://player.vimeo.com/video/480536739" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Ignition Tutorials
@@ -447,6 +459,8 @@ Platinum Sponsor（[eProsima](https://www.eprosima.com/)）およびGold Sponsor
 <iframe src="https://player.vimeo.com/video/480526685" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Boost Pool Allocation
+
+- [Note by @fujitatomoya](https://github.com/fujitatomoya/presentation/blob/master/ROSWorld_2020/rosjp_40_recap_lt_for_lts.md#boost-pool-allocation)
 
 <iframe src="https://player.vimeo.com/video/480521240" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
